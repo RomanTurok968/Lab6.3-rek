@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rog\\source\\repos\\Pj6.3 (rek)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FA1E87-4655-4A8E-83BE-45873587D328}|Pj6.3 (rek)\\Pj6.3 (rek).vcxproj|C:\\Users\\rog\\source\\repos\\Pj6.3 (rek)\\Pj6.3 (rek)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FA1E87-4655-4A8E-83BE-45873587D328}|Pj6.3 (rek)\\Pj6.3 (rek).vcxproj|solutionrelative:Pj6.3 (rek)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\Pj6.3 (rek)\\Pj6.3 (rek)\\Source.cpp",
+              "RelativeDocumentMoniker": "Pj6.3 (rek)\\Source.cpp",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\Pj6.3 (rek)\\Pj6.3 (rek)\\Source.cpp",
+              "RelativeToolTip": "Pj6.3 (rek)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T13:32:12.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
